@@ -18,6 +18,7 @@ Escolha alguns de seus sites favoritos e eu garanto a você que pelo menos um de
 Não importa o que está sendo vendido, seja físico ou virtual, toda aplicação de comércio eletrônico consistirá em algum tipo de página para a loja, com os detalhes dos produtos e/ou dos serviços. Se os usuários puderem adquirir vários produtos ao mesmo tempo, é necessário um carrinho de compras, onde os usuários poderão gerenciar os produtos que eles desejarem adquirir.
 
 (NAO E NECESSARIO O ITEM ABAIXO)
+
 Por fim, toda aplicação de comércio eletrônico precisa de um processo de checkout, onde os usuários podem fazer a compra de seus produtos anonimamente ou apenas quando estiverem autenticados.
 ecommerce-cropped-min
 
